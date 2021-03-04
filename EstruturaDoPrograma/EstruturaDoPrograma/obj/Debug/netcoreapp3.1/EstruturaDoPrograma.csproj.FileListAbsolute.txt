@@ -1,0 +1,13 @@
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.exe
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.deps.json
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.json
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfo.cs
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
+C:\workspace\EstruturaDoPrograma\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.genruntimeconfig.cache
