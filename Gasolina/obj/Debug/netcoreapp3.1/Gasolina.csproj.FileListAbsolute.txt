@@ -1,0 +1,13 @@
+C:\workspace\Gasolina\bin\Debug\netcoreapp3.1\Gasolina.exe
+C:\workspace\Gasolina\bin\Debug\netcoreapp3.1\Gasolina.deps.json
+C:\workspace\Gasolina\bin\Debug\netcoreapp3.1\Gasolina.runtimeconfig.json
+C:\workspace\Gasolina\bin\Debug\netcoreapp3.1\Gasolina.runtimeconfig.dev.json
+C:\workspace\Gasolina\bin\Debug\netcoreapp3.1\Gasolina.dll
+C:\workspace\Gasolina\bin\Debug\netcoreapp3.1\Gasolina.pdb
+C:\workspace\Gasolina\obj\Debug\netcoreapp3.1\Gasolina.csprojAssemblyReference.cache
+C:\workspace\Gasolina\obj\Debug\netcoreapp3.1\Gasolina.AssemblyInfoInputs.cache
+C:\workspace\Gasolina\obj\Debug\netcoreapp3.1\Gasolina.AssemblyInfo.cs
+C:\workspace\Gasolina\obj\Debug\netcoreapp3.1\Gasolina.csproj.CoreCompileInputs.cache
+C:\workspace\Gasolina\obj\Debug\netcoreapp3.1\Gasolina.dll
+C:\workspace\Gasolina\obj\Debug\netcoreapp3.1\Gasolina.pdb
+C:\workspace\Gasolina\obj\Debug\netcoreapp3.1\Gasolina.genruntimeconfig.cache
