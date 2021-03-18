@@ -15,7 +15,7 @@ namespace Gasolina
             consumoMedio =  Convert.ToDouble(distancia)/combustivelGasto    ; //atribua a formula para que o codigo funcione corretamente
 
             Console.WriteLine("{0:0.000} km/l", consumoMedio); */
-            double salario, reajuste, novoSalario, percentual;
+            /* double salario, reajuste, novoSalario, percentual;
             salario = Convert.ToDouble(Console.ReadLine());
 
                        //insira os valores corretos de acordo com o enunciado
@@ -65,8 +65,22 @@ namespace Gasolina
                 Console.WriteLine("Novo salario: {0:0.00}", novoSalario);
                 Console.WriteLine("Reajuste ganho: {0:0.00}", reajuste);
                 Console.WriteLine("Em percentual: {0} %", percentual);
-            }
+            } 
+
+            double a, b, mediaP;
+
+            a = Convert.ToDouble(Console.ReadLine());
+            b = Convert.ToDouble(Console.ReadLine());
+            
+            //complete com as variaveis
+            mediaP = (( a * 3.5) + ( b * 7.5)) / (3.5 + 7.5);
+
+            Console.WriteLine("MEDIA = {0}", mediaP.ToString("0.00000"));*/
+
+
+            Console.WriteLine("Teste");
 
         }
+        
     }
 }
