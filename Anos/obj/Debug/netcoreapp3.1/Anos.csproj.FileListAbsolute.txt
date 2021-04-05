@@ -1,0 +1,13 @@
+C:\workspace\Anos\bin\Debug\netcoreapp3.1\Anos.exe
+C:\workspace\Anos\bin\Debug\netcoreapp3.1\Anos.deps.json
+C:\workspace\Anos\bin\Debug\netcoreapp3.1\Anos.runtimeconfig.json
+C:\workspace\Anos\bin\Debug\netcoreapp3.1\Anos.runtimeconfig.dev.json
+C:\workspace\Anos\bin\Debug\netcoreapp3.1\Anos.dll
+C:\workspace\Anos\bin\Debug\netcoreapp3.1\Anos.pdb
+C:\workspace\Anos\obj\Debug\netcoreapp3.1\Anos.csprojAssemblyReference.cache
+C:\workspace\Anos\obj\Debug\netcoreapp3.1\Anos.AssemblyInfoInputs.cache
+C:\workspace\Anos\obj\Debug\netcoreapp3.1\Anos.AssemblyInfo.cs
+C:\workspace\Anos\obj\Debug\netcoreapp3.1\Anos.csproj.CoreCompileInputs.cache
+C:\workspace\Anos\obj\Debug\netcoreapp3.1\Anos.dll
+C:\workspace\Anos\obj\Debug\netcoreapp3.1\Anos.pdb
+C:\workspace\Anos\obj\Debug\netcoreapp3.1\Anos.genruntimeconfig.cache

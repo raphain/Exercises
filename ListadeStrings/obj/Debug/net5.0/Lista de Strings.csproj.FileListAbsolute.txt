@@ -1,0 +1,16 @@
+C:\workspace\ListadeStrings\bin\Debug\net5.0\Lista de Strings.exe
+C:\workspace\ListadeStrings\bin\Debug\net5.0\Lista de Strings.deps.json
+C:\workspace\ListadeStrings\bin\Debug\net5.0\Lista de Strings.runtimeconfig.json
+C:\workspace\ListadeStrings\bin\Debug\net5.0\Lista de Strings.runtimeconfig.dev.json
+C:\workspace\ListadeStrings\bin\Debug\net5.0\Lista de Strings.dll
+C:\workspace\ListadeStrings\bin\Debug\net5.0\ref\Lista de Strings.dll
+C:\workspace\ListadeStrings\bin\Debug\net5.0\Lista de Strings.pdb
+C:\workspace\ListadeStrings\obj\Debug\net5.0\Lista de Strings.csprojAssemblyReference.cache
+C:\workspace\ListadeStrings\obj\Debug\net5.0\Lista de Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ListadeStrings\obj\Debug\net5.0\Lista de Strings.AssemblyInfoInputs.cache
+C:\workspace\ListadeStrings\obj\Debug\net5.0\Lista de Strings.AssemblyInfo.cs
+C:\workspace\ListadeStrings\obj\Debug\net5.0\Lista de Strings.csproj.CoreCompileInputs.cache
+C:\workspace\ListadeStrings\obj\Debug\net5.0\Lista de Strings.dll
+C:\workspace\ListadeStrings\obj\Debug\net5.0\ref\Lista de Strings.dll
+C:\workspace\ListadeStrings\obj\Debug\net5.0\Lista de Strings.pdb
+C:\workspace\ListadeStrings\obj\Debug\net5.0\Lista de Strings.genruntimeconfig.cache
